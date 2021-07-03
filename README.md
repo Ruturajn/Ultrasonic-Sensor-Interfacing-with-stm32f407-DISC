@@ -5,9 +5,9 @@ I have used the HC-SR04 Sensor as the Ultrasonic Sensor.
  
 The Connections used here are,
 
-HC-SR04   STM32F407
-1.VCC--------5V
-2.Trig--------PA6
-3.Echo--------PA6
-4.GND---------GND
-  
+| HC-SR04 | STM32F407 |
+|---|---|
+| VCC | 5V |
+| Trig | PA5 |
+| Echo | PA6 |
+| GND | GND |
