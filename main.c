@@ -48,7 +48,7 @@ int main(){
 		//3.Converting the gathered data into distance in cm
 		if (data>0){
 			time = data*(0.0625*0.000001);
-			dist = ((time*340)/2)*1000;
+			dist = ((time*340)/2)*100;
 		}
 
 		TIM2_us_Delay(4);
